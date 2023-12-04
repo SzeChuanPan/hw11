@@ -1,3 +1,4 @@
+# Student: Peter Kim, CREDIT: Joseph Lee
 # Intuitive Deep Learning
 
 A beginner-friendly tutorial to introduce Deep Learning concepts in an intuitive way!
